@@ -7,15 +7,15 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🚀 What It Does
+## What It Does
 
-- ✍️ **Create Collaborative Stories**  
+-  **Create Collaborative Stories**  
   Write and mint each chapter as an NFT. The first chapter is minted gas-free (Type 0 gas), and subsequent ones require story tokens (Type 2 gas).
 
-- 🔁 **Trade NFTs**  
+-  **Trade NFTs**  
   Seamlessly exchange story chapters with Paymaster auto-adjusting gas fees based on popularity.
 
-- 💬 **Engage Socially**  
+-  **Engage Socially**  
   Use social logins to join a vibrant, creator-driven community with story previews, comments, and reactions.
 
 - 🌐 **Onboard Easily**  
@@ -23,7 +23,7 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🧩 The Problem It Solves
+## The Problem It Solves
 
 - ❌ Eliminates gas fee barriers and blockchain complexity for new users.
 - 💸 Empowers writers with ownership and earnings via tradable NFTs.
@@ -32,7 +32,7 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🧪 Challenges I Ran Into
+##  Challenges I Ran Into
 
 - Debugging NERO Chain’s Paymaster integration for frictionless (gasless) transactions.
 - Handling Web3Auth social login quirks in React environments.
@@ -41,7 +41,7 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🛠️ Technologies I Used
+##  Technologies I Used
 
 - **Frontend**: React, TypeScript, Tailwind CSS, Framer Motion  
 - **Blockchain**: Solidity, Hardhat, NERO Chain Testnet, OpenZeppelin Contracts  
@@ -50,7 +50,7 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🧱 How We Built It
+##  How We Built It
 
 1. **Vision & Design**: Sketched a utopia for collaborative storytelling, then translated it into a sleek React frontend.
 2. **Smart Contract**: Developed the StoryChain NFT contract in Solidity; deployed on the NERO Chain Testnet using Hardhat.
@@ -60,7 +60,7 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
@@ -106,7 +106,7 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🎮 Usage
+## Usage
 
 * **Create a Story**: Click “Create Story,” input a title and chapter, and mint your first NFT gas-free.
 * **View Stories**: Browse the “View Stories” section to discover, read, and comment on community tales.
@@ -114,7 +114,7 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🧠 What We Learned
+## What We Learned
 
 * Account abstraction with Paymaster is a game-changer for onboarding Web2 users.
 * Component modularity helps maintain clean separation for Web3Auth, NFT minting, and UI rendering.
@@ -123,30 +123,26 @@ Join us on a mission to onboard the next billion Web3 users through a platform t
 
 ---
 
-## 🌱 What's Next for StoryChain
+## What's Next for StoryChain
 
-### 🌊 Wave 6 (Upcoming)
+###  Wave 6 (Upcoming)
 
 * Gamified storytelling with **RPG quests**, **character NFTs**, and **community DAOs** for collaborative governance.
 
-### 🌊 Wave 7 (Vision)
+###  Wave 7 (Vision)
 
 * DeFi-powered **NFT lending**, **content staking**, and a **tokenized story fund** for creators.
 
-### 🧠 Future Features
+###  Future Features
 
 * AR/VR integration for immersive storytelling
 * Voice-mode mobile app
 * Cross-platform support, including X (formerly Twitter) integrations
 
-### 🌍 Community Goals
+###  Community Goals
 
 * Partner with literary creators & influencers
 * Host global storytelling contests
 * Foster a creative economy through token incentives
 
 ---
-
-## 🤝 Contributing
-
-We welcome contributions!
